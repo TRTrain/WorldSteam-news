@@ -1,5 +1,4 @@
-This project uses React JS And Bootstrap.
-
+This project is a website that delivers news across various categories, including technology, business, entertainment, sports, and health. It is built using React JS and Bootstrap.
 
 
 
